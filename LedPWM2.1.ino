@@ -19,3 +19,4 @@ for (pwm=255;pwm>-1;pwm--);
   delay (velocitat);
 }
 }
+//OK
