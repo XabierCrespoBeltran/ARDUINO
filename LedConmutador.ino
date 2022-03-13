@@ -23,3 +23,4 @@ if (pulsacions%2==0){
   digitalWrite(LED,LOW);
 }
 }
+//OK
